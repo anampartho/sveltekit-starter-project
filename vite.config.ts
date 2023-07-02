@@ -1,3 +1,5 @@
+/// <reference types="vitest" />
+
 import { sveltekit } from '@sveltejs/kit/vite';
 import type { UserConfig } from 'vite';
 import { resolve } from 'path';
